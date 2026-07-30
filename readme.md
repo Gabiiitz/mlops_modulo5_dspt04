@@ -1,6 +1,6 @@
 # Proyecto Integrador: Modelo de Riesgo Crediticio y Despliegue en Producción
   
-**Autor:** Gabii  
+**Autor:** Gabriel Gomez - DSPT04  
 **Estado del Proyecto:** Completado y listo para revisión  
 
 ---
