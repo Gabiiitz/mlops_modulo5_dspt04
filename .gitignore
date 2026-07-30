@@ -1,0 +1,21 @@
+# Entorno virtual
+.mlops/
+venv/
+.venv/
+
+#Python
+__pycache__/
+*.py [cod]
+*.egg-info/
+.env
+
+# Jupyter
+ipynb_checkpoints/
+
+# IDES
+.vscode/
+idea/
+
+#OS
+-DS Store
+Thumbs _db
