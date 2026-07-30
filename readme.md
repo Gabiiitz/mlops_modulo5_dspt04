@@ -1,7 +1,6 @@
 # Proyecto Integrador: Modelo de Riesgo Crediticio y Despliegue en Producción
-
-**Entidad Financiera Target:** Sector Fintech / Servicios Financieros  
-**Autor:** Gabii  
+  
+**Autor:** Gabriel Gomez - DSPT04  
 **Estado del Proyecto:** Completado y listo para revisión  
 
 ---
